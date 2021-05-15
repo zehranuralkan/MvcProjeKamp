@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\MvcProjeKamp\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\HP\source\repos\MvcProjeKamp\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\HP\source\repos\MvcProjeKamp\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\MvcProjeKamp\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\MvcProjeKamp\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\HP\source\repos\MvcProjeKamp\EntityLayer\obj\Debug\EntityLayer.pdb
